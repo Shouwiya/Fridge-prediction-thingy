@@ -1,0 +1,1 @@
+The Smart Refrigerator Stock Manager is a simple AI-based Python project that helps keep track of fridge items, gives warnings when stock is low using rule-based logic, and predicts how many days are left before restocking is needed based on daily usage. Developed by Omar Amjad (F2022266174) as a Phase III AI projec
